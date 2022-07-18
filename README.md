@@ -1,6 +1,8 @@
 # fuzzbuzz-python
 Solution to Hackerank fuzzbuzz sample test
 Sample output
+
+
 1
 2
 fizz
